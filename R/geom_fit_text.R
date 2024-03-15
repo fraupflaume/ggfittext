@@ -165,7 +165,7 @@ geom_fit_text <- function(
 }
 
 #' GeomFitText
-#' @nrdname ggfittext
+#' @rdname ggfittext
 #' @keywords internal
 #' @export
 GeomFitText <- ggplot2::ggproto(

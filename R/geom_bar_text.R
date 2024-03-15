@@ -62,7 +62,7 @@ geom_bar_text <- function(
     )
   )
 }
-#' @nrdname ggfittext
+#' @rdname ggfittext
 #' @keywords internal
 #' @export
 GeomBarText <- ggplot2::ggproto(
